@@ -1,5 +1,5 @@
-# Data Analytics Projects
-From the Udemy Data Analytics Bootcamp
+# Data Analytics Portfolio
+Projects from the Udemy Data Analytics Bootcamp
 
 #1 Business Insights Dashboard
 

@@ -3,7 +3,7 @@ Projects from the Udemy Data Analytics Bootcamp
 
 
 ## #1 Business Insights Dashboard
-(Click [here](https://github.com/alyssawinn/data-analytics-portfolio/blob/558b9b0b95599a0adf0ace9dc3c02c5ec62c86e0/Business%20Insights%20Dashboard%20Project.xlsx) and click 'View Raw' to download .xlsx file and see the results)
+Click [here](https://github.com/alyssawinn/data-analytics-portfolio/blob/558b9b0b95599a0adf0ace9dc3c02c5ec62c86e0/Business%20Insights%20Dashboard%20Project.xlsx) and click 'View Raw' to download .xlsx file and see the results.
 
 Using a dataset of orders, I created 4 PivotTables and a Business Insights Dashboard with the associated PivotCharts showing the following:
  * Average discount rate and profit margin by product category
@@ -15,7 +15,8 @@ Using a dataset of orders, I created 4 PivotTables and a Business Insights Dashb
 
 
 ## #2 Bank Churn Analysis
-(Click [here](https://github.com/alyssawinn/data-analytics-portfolio/blob/4bae85ac9f3c1b66afb7fef0dbc743c85cf8375c/Bank%20Churn%20Analysis%20Project.xlsx) and click 'View Raw' to download .xlsx file and see the results)
+Click [here](https://github.com/alyssawinn/data-analytics-portfolio/blob/4bae85ac9f3c1b66afb7fef0dbc743c85cf8375c/Bank%20Churn%20Analysis%20Project.xlsx) and click 'View Raw' to download .xlsx file and see the results.
+
 Using the instructions in the .xlsx file, I analyzed customer bank churn data using PivotTables and the Data Analysis ToolPak to answer the following questions:
  1. What is the average credit score for each country?
  2. How does the average account balance vary between genders within each country?

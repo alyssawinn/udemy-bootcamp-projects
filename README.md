@@ -1,5 +1,5 @@
 # Data Analytics Portfolio
-Projects from the Udemy Data Analytics Bootcamp
+
 
 ## (PYTHON) Striker Analytics
 Through a comprehensive analysis of the raw performance dataset [here](https://github.com/alyssawinn/data-analytics-portfolio/blob/main/performance_data.xlsx), I've gained valuable insights into the characteristics and performance metrics of strikers. By segmenting and classifying the strikers based on their attributes and performance, I've provided a framework for identifying top-performing strikers and predicting their performance type.

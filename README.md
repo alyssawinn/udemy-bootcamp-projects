@@ -2,9 +2,17 @@
 Projects from the Udemy Data Analytics Bootcamp
 
 ## (PYTHON) Striker Analytics
-Through a comprehensive analysis of the dataset, I've gained valuable insights into the characteristics and performance metrics of strikers. By segmenting and classifying the strikers based on their attributes and performance, I've provided a framework for identifying top-performing strikers and predicting their performance type.
+Through a comprehensive analysis of the raw performance dataset [here](https://github.com/alyssawinn/data-analytics-portfolio/blob/main/performance_data.xlsx), I've gained valuable insights into the characteristics and performance metrics of strikers. By segmenting and classifying the strikers based on their attributes and performance, I've provided a framework for identifying top-performing strikers and predicting their performance type.
 
+Click [here](https://github.com/alyssawinn/data-analytics-portfolio/blob/main/Striker_Analytics.ipynb) to see the Jupyter Notebook file. The steps taken:
+ 1. Data Cleaning - replaced missing ordinal values with the median value and converted various variables from float to int data types
+ 2. Exploratory Analysis - ran descriptive analysis to verify there were no outliers, compared Footedness by Nationality and Conversion Rate
+ 3. Statistical Analysis - verified Consistency and Hold-up Play were normally distributed, concluded there is no significant difference in Consistency between different Nationalities, and concluded there is a weak positive but significant correlation between Consistency and Hold-up Play
+ 4. Feature Engineering - created a Total Contribution Score variable by summing various performance measures, encoded the nominal variables Footedness and Marital Status, and created dummy variables for Nationality
+ 5. Clustering Analysis - created a Striker Ranking variable to segment regular and excellent strikers based on the Total Contribution Score
+ 6. Predictive Analysis - used a logistic regression model to calculate the accuracy score and confusion matrix to verify how accurate the model predicted the striker ranking
 
+![image](https://github.com/user-attachments/assets/4241126f-ecda-47ec-a22d-7498fe634f3e)
 
 ## (EXCEL) Business Insights Dashboard
 Click [here](https://github.com/alyssawinn/data-analytics-portfolio/blob/558b9b0b95599a0adf0ace9dc3c02c5ec62c86e0/Business%20Insights%20Dashboard%20Project.xlsx) and click 'View Raw' to download .xlsx file and see the results.

@@ -1,5 +1,5 @@
 # Data Analytics Portfolio
-
+<br>
 
 ## (PYTHON) Striker Analytics
 Through a comprehensive analysis of the raw performance dataset [here](https://github.com/alyssawinn/data-analytics-portfolio/blob/main/performance_data.xlsx), I've gained valuable insights into the characteristics and performance metrics of strikers. By segmenting and classifying the strikers based on their attributes and performance, I've provided a framework for identifying top-performing strikers and predicting their performance type.
@@ -14,6 +14,7 @@ Click [here](https://github.com/alyssawinn/data-analytics-portfolio/blob/main/St
 
 ![image](https://github.com/user-attachments/assets/4241126f-ecda-47ec-a22d-7498fe634f3e)
 
+<br> <br>
 ## (EXCEL) Business Insights Dashboard
 Click [here](https://github.com/alyssawinn/data-analytics-portfolio/blob/558b9b0b95599a0adf0ace9dc3c02c5ec62c86e0/Business%20Insights%20Dashboard%20Project.xlsx) and click 'View Raw' to download .xlsx file and see the results.
 
@@ -25,7 +26,7 @@ Using a dataset of orders, I created 4 PivotTables and a Business Insights Dashb
 
  ![image](https://github.com/user-attachments/assets/ea778a4c-7e3c-4291-bf34-d98a5d673b0f)
 
-
+<br> <br>
 ## (EXCEL) Bank Churn Analysis
 Click [here](https://github.com/alyssawinn/data-analytics-portfolio/blob/4bae85ac9f3c1b66afb7fef0dbc743c85cf8375c/Bank%20Churn%20Analysis%20Project.xlsx) and click 'View Raw' to download .xlsx file and see the results.
 

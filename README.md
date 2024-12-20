@@ -3,7 +3,7 @@
 ## Skills & Achievements
  * Nov-Dec 2024: Udemy Data Analytics Course (Excel, MySQL, Python, Power BI, ChatGPT) [(certificate)](https://github.com/alyssawinn/data-analytics-portfolio/blob/main/udemy_data_analytics_certificate.pdf)
  * Jan-Jun 2021: Full-Stack Web Development Bootcamp from University of Utah (HTML, CSS, JavaScript, Express.js, React.js, Node.js, Python, MongoDB, SQL, Git)
- * 2014-2018: Management Information Systems Bachelor's Degree from Utah State University (Big Data Analytics, Database Management, C++, Excel, Power BI, Tableau, Python, IT Infrastructure & Security)
+ * 2014-2018: Management Information Systems Bachelor's Degree from Utah State University (Big Data Analytics, Database Management, C++, Excel, R, Power BI, Tableau, Python, IT Infrastructure & Security)
 
 ## Projects
 ### (PYTHON) Striker Analytics

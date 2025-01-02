@@ -1,8 +1,8 @@
 # Data Analytics Portfolio
 
 ## Skills & Achievements
- * Nov-Dec 2024: Udemy Data Analytics Course (Excel, MySQL, Python, Power BI, ChatGPT) [(certificate)](https://github.com/alyssawinn/data-analytics-portfolio/blob/main/udemy_data_analytics_certificate.pdf)
- * Jan-Jun 2021: Full-Stack Web Development Bootcamp from University of Utah (HTML, CSS, JavaScript, Express.js, React.js, Node.js, Python, MongoDB, SQL, Git)
+ * Nov-Dec 2024: Udemy Data Analytics Course (Excel, MySQL, Python, Power BI, ChatGPT) [(certificate)](https://github.com/alyssawinn/data-analytics-portfolio/blob/main/Data%20Analytics%20Bootcamp%20Certificate.pdf)
+ * Jan-Jun 2021: Full-Stack Web Development Bootcamp from University of Utah (HTML, CSS, JavaScript, Express.js, React.js, Node.js, Python, MongoDB, SQL, Git) [(certificate)](https://github.com/alyssawinn/data-analytics-portfolio/blob/main/Full%20Stack%20Development%20Bootcamp%20Certificate.pdf)
  * 2014-2018: Management Information Systems Bachelor's Degree from Utah State University (Big Data Analytics, Database Management, C++, Excel, R, Power BI, Tableau, Python, IT Infrastructure & Security)
 
 ## Projects

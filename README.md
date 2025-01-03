@@ -1,11 +1,5 @@
-# Data Analytics Portfolio
+# Udemy Data Analytics Bootcamp Projects
 
-## Skills & Achievements
- * Nov-Dec 2024: Udemy Data Analytics Course (Excel, MySQL, Python, Power BI, ChatGPT) [(certificate)](https://github.com/alyssawinn/data-analytics-portfolio/blob/main/Data%20Analytics%20Bootcamp%20Certificate.pdf)
- * Jan-Jun 2021: Full-Stack Web Development Bootcamp from University of Utah (HTML, CSS, JavaScript, Express.js, React.js, Node.js, Python, MongoDB, SQL, Git) [(certificate)](https://github.com/alyssawinn/data-analytics-portfolio/blob/main/Full%20Stack%20Development%20Bootcamp%20Certificate.pdf) [(Credly badge)](https://www.credly.com/badges/4e7ea443-4905-48da-a2e6-686d7a709abf)
- * 2014-2018: Management Information Systems Bachelor's Degree from Utah State University (Big Data Analytics, Database Management, C++, Excel, R, Power BI, Tableau, Python, IT Infrastructure & Security)
-
-## Projects
 ### (PYTHON) Striker Analytics
 Through a comprehensive analysis of the raw performance dataset [here](https://github.com/alyssawinn/data-analytics-portfolio/blob/main/performance_data.xlsx), I've gained valuable insights into the characteristics and performance metrics of strikers. By segmenting and classifying the strikers based on their attributes and performance, I've provided a framework for identifying top-performing strikers and predicting their performance type.
 

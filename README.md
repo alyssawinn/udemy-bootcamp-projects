@@ -6,7 +6,7 @@ SportQuest Recruitment, established in 2020, is a global (fictional) recruitment
 
 The company has significant amounts of data related to strikers, encompassing both demographic information and performance metrics. This project thoroughly analyzes this data to create a framework for identifying which metrics predict a top-performing striker.
 
-The raw Excel performance dataset loaded into Jupyter can be found [here](https://github.com/alyssawinn/data-analytics-portfolio/blob/main/performance_data.xlsx). <br>
+The raw Excel performance dataset loaded into Jupyter can be found [here](https://github.com/alyssawinn/udemy-bootcamp-projects/blob/main/striker_data.csv). <br>
 The Jupyter Notebook file utilized for statistical analysis, feature engineering, clustering analysis, predictive analysis, and visualization can be found [here](https://github.com/alyssawinn/data-analytics-portfolio/blob/main/Striker_Analytics.ipynb).
 
 ### Executive Summary

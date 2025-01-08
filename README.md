@@ -1,15 +1,16 @@
 # Udemy Data Analytics Bootcamp Projects
 
-### (PYTHON) Striker Analytics
-Through a comprehensive analysis of the raw performance dataset [here](https://github.com/alyssawinn/data-analytics-portfolio/blob/main/performance_data.xlsx), I've gained valuable insights into the characteristics and performance metrics of strikers. By segmenting and classifying the strikers based on their attributes and performance, I've provided a framework for identifying top-performing strikers and predicting their performance type.
+## (PYTHON) Striker Analytics
+### Project Background
+SportQuest Recruitment, established in 2020, is a global (fictional) recruitment company helping future college players with their college and pro careers.
 
-Click [here](https://github.com/alyssawinn/data-analytics-portfolio/blob/main/Striker_Analytics.ipynb) to see the Jupyter Notebook file. The steps taken:
- 1. Data Cleaning - replaced missing ordinal values with the median value and converted various variables from float to int data types
- 2. Exploratory Analysis - ran descriptive analysis to verify there were no outliers, compared Footedness by Nationality and Conversion Rate
- 3. Statistical Analysis - verified Consistency and Hold-up Play were normally distributed, concluded there is no significant difference in Consistency between different Nationalities, and concluded there is a weak positive but significant correlation between Consistency and Hold-up Play
- 4. Feature Engineering - created a Total Contribution Score variable by summing various performance measures, encoded the nominal variables Footedness and Marital Status, and created dummy variables for Nationality
- 5. Clustering Analysis - created a Striker Ranking variable to segment regular and excellent strikers based on the Total Contribution Score
- 6. Predictive Analysis - used a logistic regression model to calculate the accuracy score and confusion matrix to verify how accurate the model predicted the striker ranking
+The company has significant amounts of data related to strikers, encompassing both demographic information and performance metrics. This project thoroughly analyzes this data to create a framework for identifying which metrics predict a top-performing striker.
+
+The raw Excel performance dataset loaded into Jupyter can be found [here](https://github.com/alyssawinn/data-analytics-portfolio/blob/main/performance_data.xlsx). <br>
+The Jupyter Notebook file utilized for statistical analysis, feature engineering, clustering analysis, predictive analysis, and visualization can be found [here](https://github.com/alyssawinn/data-analytics-portfolio/blob/main/Striker_Analytics.ipynb).
+
+### Executive Summary
+The most significant performance measures to determine a top-performing striker were summed to create a Total Contribution Score. The fields are Goals Scored, Assists, Shots on Target, Dribbling Success, Aerial Duels Won, Defensive Contribution, Big Game Performance, and Consistency. If the total score is above 123.39, the striker is classified as a top performer. This was tested in a logistic regression model to verify how accurate the model predicted a top-performing striker and concluded that it accurately predicted whether a striker was an average or top performer 96% of the time.
 
 ![image](https://github.com/user-attachments/assets/4241126f-ecda-47ec-a22d-7498fe634f3e)
 

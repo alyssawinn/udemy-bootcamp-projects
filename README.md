@@ -47,16 +47,44 @@ The most significant performance measures to determine a top-performing striker 
 ![image](https://github.com/user-attachments/assets/4241126f-ecda-47ec-a22d-7498fe634f3e)
 
 <br> <br>
-### (EXCEL) Business Insights Dashboard
-Click [here](https://github.com/alyssawinn/data-analytics-portfolio/blob/558b9b0b95599a0adf0ace9dc3c02c5ec62c86e0/Business%20Insights%20Dashboard%20Project.xlsx) and click 'View Raw' to download .xlsx file and see the results.
+## (EXCEL) Business Insights Dashboard
+### Project Background
+Red Cart, established in 2005, is a (fictional) mass merchandiser corporation that operates sells a wide variety of goods, serving both businesses and individual customers.
 
-Using a dataset of orders, I created 4 PivotTables and a Business Insights Dashboard with the associated PivotCharts showing the following:
- * Average discount rate and profit margin by product category
- * Average sales and quantity sold by region for each product category
- * Total number of products sold from each product category to different customer segments
- * Total amount of revenue for each product category to different customer segments
+The company has a small subset of order data, including sales, statuses, and profit margin for various regions. This project analyzes this data in order to uncover critical insights that will improve Red Cart's marketing strategy and commercial success.
+
+Inisghts and recommendations are provided on the following key areas:
+ * **Sales Trends Analysis**: Evaluation of sales patterns, by sales channel and customer segment, focusing on Profit Margin and Total Revenue.
+ * **Product Level Performance**: An analysis of Red Cart's various product categories, understanding their impact on sales.
+ * **Regional Comparisons**: An evaluation of orders by region.
+
+The raw sales data and interactive Excel dashboard can be downloaded [here](https://github.com/alyssawinn/data-analytics-portfolio/blob/558b9b0b95599a0adf0ace9dc3c02c5ec62c86e0/Business%20Insights%20Dashboard%20Project.xlsx).
+
+### Executive Summary
+The **South region leads in profitability**, with **Clothing and Sports & Outdoors showing the highest margins**, while the **West excels in Beauty & Health**. **Wholesale channels dominate revenue generation**, particularly in Home & Kitchen, Beauty & Health, and Clothing, but **Electronics consistently underperforms across all segments**. To maximize profitability, prioritize high-margin categories like Beauty & Health, introduce premium products in popular but low-revenue areas such as Beauty & Health in the North region and Electronics in the West, and refine discount strategies for low-performing segments.
 
  ![image](https://github.com/user-attachments/assets/ea778a4c-7e3c-4291-bf34-d98a5d673b0f)
+
+ #### Sales Trends
+  * The **South region dominates** with the highest profit margin in Clothing (42%) and Sports (42%), while the **West region excels** in Beauty (35%).
+  * **Wholesale channels** are top performers, with Home and Beauty categories leading revenue generation, while Electronics underperforms across all segments.
+
+#### Product Performance
+ * **High-margin categories** like Beauty (25%) have the lowest discount rates (7%), making it a key driver of profitability.
+ * **Low-revenue but popular categories** for premium product introductions include North and South Beauty, West Clothing, and West Electronics.
+
+#### Regional Comparisons
+ * **Strengths**: Home & Kitchen in the West and South regions, and Clothing in the South and East regions consistently outperform.
+ * **Weaknesses**: Beauty and Sports & Outdoors in the South region, and Clothing in the West region face challenges in driving sales despite high potential.
+
+### Recommendations
+ 1. **Prioritize high-margin categories** (e.g., Beauty & Health, Clothing in the South region) for marketing and inventory investments.
+ 2. **Reassess discount strategies** for low-margin categories where discounts don't drive sufficient sales or profitability, like Electronics and Sports & Outdoors for Business customers.
+ 3. **Introduce premium product lines** in popular but low-revenue categories to increase average revenue per sale (e.g., Beauty & Health in the North region, Electronics in the West).
+ 4. Focus marketing on **regional strengths** (e.g., Clothing in the South and East regions) while addressing regional weaknesses (e.g., Beauty & Health in the South region, Clothing in the West).
+ 5. Enhance the **online user experience** for Wholesale and Business Home & Kitchen channels, which are the most profitable.
+ 6. Develop **loyalty programs** targeting top-performing customer segments, such as Wholesale Home & Kitchen and Business Sports.
+ 7. Reduce returns and cancellations by improving product descriptions, quality assurance, and flexible return policies for Electronics and Clothing.
 
 <br> <br>
 ### (EXCEL) Bank Churn Analysis
